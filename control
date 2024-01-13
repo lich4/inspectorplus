@@ -1,0 +1,9 @@
+Package: inspectorplus
+Name: inspectorplus
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: inspector any UIWebView or WKWebview in any App!
+Maintainer: APPLE
+Author: APPLE
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
